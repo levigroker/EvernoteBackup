@@ -3,7 +3,7 @@ EvernoteBackup
 
 A script to export all Evernote notes into a disk image for backup purposes.
 By [Levi Brown](mailto:levigroker@gmail.com)
-Version 1.0 March 14th, 2016
+Version 1.0.1 March 17th, 2016
 https://github.com/levigroker/EvernoteBackup
 
 This script is designed to be executed automatically via a launchd
