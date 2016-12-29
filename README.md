@@ -1,10 +1,10 @@
 EvernoteBackup
 ===
 
-A script to export all Evernote notes into a disk image for backup purposes.
-By [Levi Brown](mailto:levigroker@gmail.com)
-Version 1.0.1 March 17th, 2016
-https://github.com/levigroker/EvernoteBackup
+A script to export all Evernote notes into a disk image for backup purposes.  
+By [Levi Brown](mailto:levigroker@gmail.com)  
+Version 1.1 December 29th, 2016  
+https://github.com/levigroker/EvernoteBackup  
 
 This script is designed to be executed automatically via a launchd
 configuration, or manually. When executed, the script will:
@@ -85,6 +85,7 @@ recover the original notebook name. Repeat this process for all notebooks.
   Please see the included LICENSE.txt for complete details.
 
 #### About
+
 A professional iOS engineer by day, my name is Levi Brown. Authoring a blog
 [grokin.gs](http://grokin.gs), I am reachable via:
 
